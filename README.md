@@ -33,7 +33,7 @@ Script to update post flairs on r/PhotoshopRequests, on a timed basis.
   SUBREDDIT = target_subreddit_name
   ```
 
-  ## Running the script    
-  ```
-  python main.py
-  ```
+## Running the script    
+```
+python main.py
+```
