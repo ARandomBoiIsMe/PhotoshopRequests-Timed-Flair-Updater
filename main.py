@@ -29,6 +29,7 @@ def main():
         exit()
 
     # Checks for and processes new posts.
+    print("Bot is now running...")
     for post in subreddit.stream.submissions(skip_existing=True):
         process_new_post(post)
 
