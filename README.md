@@ -1,5 +1,5 @@
 # r/PhotoshopRequests Timed Flair Updater
-Script to update post flairs on r/PhotoshopRequests, on a timed basis.
+Script to update post flairs on [r/PhotoshopRequests](https://www.reddit.com/r/PhotoshopRequests/), on a timed basis.
 
 ## Installation
 - Install Python.
